@@ -15,4 +15,4 @@
 
 ## My contacts:
 - VK: https://vk.com/hitioff
-- Discord: ` itzHiti#9985
+- Discord: ` itzHiti#9985 (backtick must be used)
