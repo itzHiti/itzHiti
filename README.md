@@ -10,7 +10,6 @@
 ## I code on:
 - Java (especially when developing plugins for Minecraft)
 - C++!
-
 - Python
 - Web programming languages such as HTML5, PHP, CSS and a little bit JS.
 
