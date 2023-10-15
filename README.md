@@ -15,6 +15,6 @@
 
 ## My contacts:
 - VK: https://vk.com/hitioff
-- Discord: ` itzHiti#9985 (backtick must be used)
+- Discord: @itzhiti
 
 <img src="https://user-images.githubusercontent.com/81374715/192527086-5423ab3a-40c2-4157-a8c2-68751c99e6ea.gif" />
