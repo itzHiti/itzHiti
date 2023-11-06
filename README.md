@@ -1,7 +1,7 @@
 # Hi there / Привет 👋
 
 ## About me:
-- 18 y.o. (birth date: 12/06/2004)
+- birth date: 12/06/2004
 - He/Him
 - Languages: Russian, Kazakh, English
 - I was born in Kazakhstan
