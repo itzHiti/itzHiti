@@ -12,9 +12,14 @@
 - PHP, Node, Java (BukkitAPI, Spring Boot), Python
 - MySQL (MariaDB), PostgreSQL, H2, 
 
-## My contacts:
+### Learning:
+- GoLang
+- Angular
+- TypeScript
+
+## My contacts (in priority order):
+- TG: https://t.me/itzHiti
 - VK: https://vk.com/hitioff
 - Discord: @itzhiti
-- TG: https://t.me/itzHiti
 
 <img src="https://user-images.githubusercontent.com/81374715/192527086-5423ab3a-40c2-4157-a8c2-68751c99e6ea.gif" />
