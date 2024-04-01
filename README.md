@@ -9,7 +9,7 @@
 
 ## Tech stack:
 - HTML, CSS, JS, Bootstrap 5, TS, Angular
-- PHP, Node, Java (BukkitAPI, Spring Boot), Python
+- PHP, Node, Java (BukkitAPI, Spring Boot), Python, C++
 - MySQL (MariaDB), PostgreSQL, H2, 
 
 ### Learning:
