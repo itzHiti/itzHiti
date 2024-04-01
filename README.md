@@ -8,14 +8,13 @@
 - Pronouns: Hiti, Хити
 
 ## Tech stack:
-- HTML, CSS, JS, Bootstrap 5
+- HTML, CSS, JS, Bootstrap 5, TS, Angular
 - PHP, Node, Java (BukkitAPI, Spring Boot), Python
 - MySQL (MariaDB), PostgreSQL, H2, 
 
 ### Learning:
-- GoLang
-- Angular
-- TypeScript
+- Vue.js
+- Django
 
 ## My contacts (in priority order):
 - TG: https://t.me/itzHiti
