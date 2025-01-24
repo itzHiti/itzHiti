@@ -2,7 +2,6 @@
 
 ## My contacts (in priority order):
 <a href="https://t.me/itzHiti"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=whit"/></a>
-<a href="https://vk.com/hitioff"><img alt="VK" src="https://img.shields.io/badge/Vkontakte-0077FF?style=for-the-badge&logo=vk&logoColor=whit"/></a>
 <a href="https://itzhiti.github.io/"><img alt="Discord" src="https://img.shields.io/badge/@itzhiti-404EED?style=for-the-badge&logo=discord&logoColor=whit"/></a>
 
 ## About me:
