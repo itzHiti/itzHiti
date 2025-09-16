@@ -5,7 +5,7 @@
 <a href="https://itzhiti.github.io/"><img alt="Discord" src="https://img.shields.io/badge/@itzhiti-404EED?style=for-the-badge&logo=discord&logoColor=fff"/></a>
 
 ## About me:
-- 20 y.o. rn
+- 21 y.o. rn
 - He/Him
 - Languages: Russian, Kazakh, English
 - I was born in Kazakhstan
