@@ -35,6 +35,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker + Compose" alt="Docker + Compose" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" title="ApacheKafka" alt="Apache Kafka" width="40" height="40"/>&nbsp;
-</p>
 
 <img src="https://user-images.githubusercontent.com/81374715/192527086-5423ab3a-40c2-4157-a8c2-68751c99e6ea.gif" />
+
+</p>
