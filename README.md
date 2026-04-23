@@ -9,7 +9,7 @@
 - He/Him
 - Languages: Russian, Kazakh, English
 - I was born in Kazakhstan
-
+<!--
 ## Tech stack (Languages and Tools):
 
 <p align="center">
@@ -24,7 +24,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/quasar/quasar-original.svg" title="Quasar" alt="Quasar" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" title="NestJS" alt="NestJS" width="40" height="40"/>&nbsp;
-  <br><br><!--patapim, lol-->
+  <br><br><!--patapim, lol--> -->
+  <!--
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" title="MariaDB" alt="MariaDB" width="40" height="40"/>&nbsp;
@@ -39,3 +40,4 @@
 <img src="https://user-images.githubusercontent.com/81374715/192527086-5423ab3a-40c2-4157-a8c2-68751c99e6ea.gif" />
 
 </p>
+-->
